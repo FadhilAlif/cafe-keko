@@ -17,9 +17,9 @@ const Hero = () => {
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px] animate-fade-in-up">
           Cafe Keko Indonesia, where relaxation meets productivity. Enjoy our
           finest locally-sourced coffee or utilize our inspiring co-working
-          space. With high-speed internet and comfortable seating, it's the
-          perfect spot to work, meet, and collaborate. Join us and let your
-          ideas flow with the best coffee.
+          space. With high-speed internet and comfortable seating, The perfect
+          spot to work, meet, and collaborate. Join us and let your ideas flow
+          with the best coffee.
         </p>
 
         <div className="my-11 flex flex-col w-full gap-3 sm:flex-row animate-fade-in-up">
